@@ -1,5 +1,4 @@
-bem server demo
-===============
+To start project
 
 1. `git clone git@github.com:Lavr1k/gallery.git`
 2. `cd gallery`
